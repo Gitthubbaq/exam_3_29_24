@@ -1,0 +1,6 @@
+function, consumer va supplier. javada shu turdagi  functional interface larni
+bilaman
+Function -- 1ta value qabul qiladi va oxirida boshqa valueni qaytaradi.
+Consumer -- bu 1 ta qiymat qabul qiladi boldi.
+Supplier -- bu Consumerga teskari bu bitta qiymat qaytaradi xolos.
+
